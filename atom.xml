@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://papayahu.github.io</id>
+    <title>湛藍</title>
+    <updated>2024-12-30T06:16:25.729Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://papayahu.github.io"/>
+    <link rel="self" href="https://papayahu.github.io/atom.xml"/>
+    <subtitle>一些記錄和隨筆 | 練習用文字點綴生命</subtitle>
+    <logo>https://papayahu.github.io/images/avatar.png</logo>
+    <icon>https://papayahu.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 湛藍</rights>
+    <entry>
+        <title type="html"><![CDATA[書籤]]></title>
+        <id>https://papayahu.github.io/post/bao-cang-wang-zhan/</id>
+        <link href="https://papayahu.github.io/post/bao-cang-wang-zhan/">
+        </link>
+        <updated>2023-12-18T03:58:48.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="android-app">Android app</h1>
+<ol>
+<li><a href="https://apkcombo.com/">APKCombo</a></li>
+</ol>
+<ul>
+<li>右上角可切換網站界面語言</li>
+</ul>
+<h1 id="bgm">BGM</h1>
+<ol>
+<li><a href="https://audionautix.com/">Audionautix</a></li>
+</ol>
+<ul>
+<li><a href="https://audionautix.com/creative-commons-music">provide credit</a></li>
+</ul>
+<h1 id="web-tools">web tools</h1>
+<ol>
+<li><a href="https://tools.miku.ac/taag/">字符畫</a></li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joplin plugin筆記]]></title>
+        <id>https://papayahu.github.io/post/joplin-plugin-bi-ji/</id>
+        <link href="https://papayahu.github.io/post/joplin-plugin-bi-ji/">
+        </link>
+        <updated>2023-12-18T03:04:40.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>本文寫作於2023年11月29日，更新於2023年12月19日<br>
+<ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#remoods-theme"><strong>ReMoods Theme</strong></a></li>
+<li><a href="#emoji-picker"><strong>Emoji Picker</strong></a></li>
+<li><a href="#favorites"><strong>Favorites</strong></a></li>
+<li><a href="#freehand-drawing"><strong>Freehand Drawing</strong></a></li>
+<li><a href="#joplin-calender"><strong>Joplin Calender</strong></a></li>
+<li><a href="#markmap"><strong>MarkMap</strong></a></li>
+<li><a href="#random-note"><strong>Random Note</strong></a></li>
+<li><a href="#revealjs-integation"><strong>RevealJS Integation</strong></a></li>
+<li><a href="#rich-markdown"><strong>Rich Markdown</strong></a></li>
+<li><a href="#rubi-and-furigana"><strong>Rubi and Furigana</strong></a></li>
+<li><a href="#slash-commands"><strong>Slash Commands</strong></a></li>
+<li><a href="#suitcase"><strong>Suitcase</strong></a></li>
+<li><a href="#text-colorize"><strong>Text Colorize</strong></a></li>
+<li><a href="#bible-quote"><strong>Bible Quote</strong></a></li>
+<li><a href="#quick-links"><strong>Quick Links</strong></a></li>
+<li><a href="#bidirectional-links"><strong>Bidirectional Links</strong></a></li>
+<li><a href="#combine-notes"><strong>Combine notes</strong></a></li>
+<li><a href="#copy-anchor-link"><strong>Copy Anchor Link</strong></a></li>
+<li><a href="#container-with-classes"><strong>Container with Classes</strong></a></li>
+<li><a href="#admonition-markdown-extension"><strong>Admonition markdown extension</strong></a></li>
+</ul>
+</li>
+</ul>
+<br>
+<a href="https://github.com/joplin/plugins/blob/master/README.md#plugins">官方plugin總覽</a></p>
+</blockquote>
+<h2 id="remoods-theme"><strong>ReMoods Theme</strong></h2>
+<ul>
+<li>Night Mode模式推薦：</li>
+<li>red0 紅</li>
+<li>Yellow+ 淺綠</li>
+<li>Yellow-Green- 綠</li>
+<li>Cyan-Blue- 淺藍</li>
+<li>Cyan-Blue210 藍（正在用）</li>
+<li>添加目錄：在每個記事的Markdown書寫欄開頭加入 <code>[[toc]]</code></li>
+</ul>
+<h2 id="emoji-picker"><strong>Emoji Picker</strong></h2>
+<ul>
+<li>使用 :: 開啟emoji</li>
+</ul>
+<h2 id="favorites"><strong>Favorites</strong></h2>
+<ul>
+<li>右鍵：Add note to favorites</li>
+<li>工具 - Favorites</li>
+</ul>
+<h2 id="freehand-drawing"><strong>Freehand Drawing</strong></h2>
+<ul>
+<li>上方隱藏功能欄 🖊</li>
+</ul>
+<h2 id="joplin-calender"><strong>Joplin Calender</strong></h2>
+<ul>
+<li>記事 / 待辦事項的標題欄最右側按鈕：開啟 / 關閉日曆</li>
+</ul>
+<h2 id="markmap"><strong>MarkMap</strong></h2>
+<ul>
+<li>記事 / 待辦事項的標題欄右二按鈕：開啟mindmap</li>
+</ul>
+<h2 id="random-note"><strong>Random Note</strong></h2>
+<ul>
+<li>上方隱藏功能欄右六按鈕：開啟隨機一則Note</li>
+</ul>
+<h2 id="revealjs-integation"><strong>RevealJS Integation</strong></h2>
+<ul>
+<li>上方隱藏功能欄右四按鈕：開啟幻燈片</li>
+</ul>
+<h2 id="rich-markdown"><strong>Rich Markdown</strong></h2>
+<ul>
+<li>工具 - 選項 - 延伸模組 - Rich Marchdown 開啟所需功能</li>
+</ul>
+<h2 id="rubi-and-furigana"><strong>Rubi and Furigana</strong></h2>
+<ul>
+<li>假名前後使用<code>rt</code>標籤，漢字前後使用<code>ruby</code>標籤。範例：<ruby>今日<rt>きょう</rt></ruby></li>
+</ul>
+<h2 id="slash-commands"><strong>Slash Commands</strong></h2>
+<ul>
+<li>使用 / 插入日期、時間、日曆</li>
+</ul>
+<h2 id="suitcase"><strong>Suitcase</strong></h2>
+<ul>
+<li>將文字反白</li>
+<li>編輯 - Capitalization - 選擇所需格式</li>
+</ul>
+<h2 id="text-colorize"><strong>Text Colorize</strong></h2>
+<ul>
+<li>工具 - Text Colorize：更換內文顏色或添加高光</li>
+<li>清除已儲存的顏色：右鍵點選之</li>
+<li>#f37f7f 紅色標記色碼</li>
+</ul>
+<h2 id="bible-quote"><strong>Bible Quote</strong></h2>
+<p>參考<a href="https://github.com/DanteCoder/JoplinBibleQuote/tree/main">說明</a></p>
+<pre><code class="language-bible">(John 3:16)
+</code></pre>
+<pre><code class="language-bible">help
+</code></pre>
+<h2 id="quick-links"><strong>Quick Links</strong></h2>
+<ul>
+<li>使用 @@ 快速建立note link</li>
+</ul>
+<h2 id="bidirectional-links"><strong>Bidirectional Links</strong></h2>
+<ul>
+<li>使用 ||| 快速建立雙向 link</li>
+</ul>
+<h2 id="combine-notes"><strong>Combine notes</strong></h2>
+<p>shift選中兩篇記事，可合併、匯出等不同功能</p>
+<h2 id="copy-anchor-link"><strong>Copy Anchor Link</strong></h2>
+<p><strong>O</strong> is Only-Link, <strong>L</strong> is Local, <strong>G</strong> is Global, <strong>I</strong> is ID, <strong>H</strong> is Heading, <strong>F</strong> is Full</p>
+<pre><code>OI: #welcome-to-joplin
+OF: :/524d6874790f4e33a1dd2f5b2463c6cb#welcome-to-joplin
+LI: [welcome-to-joplin](#welcome-to-joplin)
+LH: [Welcome to Joplin!](#welcome-to-joplin)
+GI: [welcome-to-joplin](:/524d6874790f4e33a1dd2f5b2463c6cb#welcome-to-joplin)
+GH: [Welcome to Joplin!](:/524d6874790f4e33a1dd2f5b2463c6cb#welcome-to-joplin)
+(Default) GF: [1. Welcome to Joplin! # Welcome to Joplin!](:/524d6874790f4e33a1dd2f5b2463c6cb#welcome-to-joplin)
+</code></pre>
+<pre><code>.cai-oi { display: inline; }
+.cai-of { display: inline; }
+.cai-li { display: inline; }
+.cai-lh { display: inline; }
+.cai-gi { display: inline; }
+.cai-gh { display: inline; }
+</code></pre>
+<pre><code>.cai-gf { display: none; }
+</code></pre>
+<p>如要修改，請到：工具-選項-外觀-顯示進階選項-自訂Markdown自訂樣式展示表-修改並存檔</p>
+<h2 id="container-with-classes"><strong>Container with Classes</strong></h2>
+<p>參考<a href="https://github.com/hieuthi/joplin-plugin-container-with-classes">說明</a></p>
+<h2 id="admonition-markdown-extension"><strong>Admonition markdown extension</strong></h2>
+<p>參考<a href="https://github.com/maxnegro/joplin-plugin-admonition">說明</a><br>
+!!! note 筆記<br>
+筆記內文<br>
+!!!</p>
+<p>!!! abstract 列表<br>
+列表內容<br>
+!!!</p>
+<p>!!! info 資訊<br>
+資訊內容<br>
+!!!</p>
+<p>!!! tip 要點<br>
+要點內容<br>
+!!!</p>
+<p>!!! success 完成<br>
+完成任務<br>
+!!!</p>
+<p>!!! question 提問<br>
+提問內容<br>
+!!!</p>
+<p>!!! warning 警示<br>
+警示內容<br>
+!!!</p>
+<p>!!! failure 錯誤<br>
+錯誤內容<br>
+!!!</p>
+<p>!!! danger 風險<br>
+風險內容<br>
+!!!</p>
+<p>!!! bug 修正<br>
+修正內容<br>
+!!!</p>
+<p>!!! example 範例<br>
+範例內容<br>
+!!!</p>
+<p>!!! quote 引用<br>
+引用內容<br>
+!!!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[github筆記]]></title>
+        <id>https://papayahu.github.io/post/github-note/</id>
+        <link href="https://papayahu.github.io/post/github-note/">
+        </link>
+        <updated>2023-11-25T08:01:20.000Z</updated>
+        <content type="html"><![CDATA[<p><br>
+如何git clone指定分支？<code>git clone -b &lt;branchname&gt; --single-branch &lt;remote-repo-url&gt;</code></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cali.so部署教程（補充）]]></title>
+        <id>https://papayahu.github.io/post/an-zhuang-jiao-cheng-bu-chong/</id>
+        <link href="https://papayahu.github.io/post/an-zhuang-jiao-cheng-bu-chong/">
+        </link>
+        <updated>2023-10-15T08:36:06.000Z</updated>
+        <content type="html"><![CDATA[<p>一、影片教學補充<br>
+略</p>
+<p>二、源碼修改參考</p>
+<ol>
+<li>更改<code>/admin</code> 顯示語言，到源碼的<code>app/admin/page.tsx</code>、<code>app/admin/comments/page.tsx</code>、<code>app/admin/Sidebar.tsx</code>、<code>sanity/schemas/blockContent.ts</code>、<code>sanity/schemas/category.ts</code>、<code>sanity/schemas/post.ts</code>、<code>sanity/schemas/project.ts</code>、<code>sanity/schemas/settings.ts</code>、<code>app/(main)/Newsletter.tsx</code>、<code>app/api/newsletter/route.ts</code>、<code>app/(main)/Header.tsx</code>、<code>config/nav.ts</code>...修改</li>
+<li>在<code>next.config.mjs</code>更改社交連結</li>
+<li>在<code>app/(main)/ama/page.tsx</code>更改主頁選單的AMA咨詢內容（todo）</li>
+<li>在<code>app/(main)/Footer.tsx</code>更改顯示語言</li>
+</ol>
+<p>三、原教程文檔部署參考</p>
+<ol>
+<li>先將 <a href="https://github.com/CaliCastle/cali.so">GitHub repo</a> fork到自己的GitHub帳號裡。<br>
+<img src="https://papayahu.github.io/post-images/1697443417297.png" alt="fork" loading="lazy"></li>
+<li>點擊右下角 <strong>Create fork</strong>。<br>
+<img src="https://papayahu.github.io/post-images/1697443435551.png" alt="repo" loading="lazy"></li>
+<li>將剛剛的fork到自己帳號的repo的URL複製下來備用。<br>
+<img src="https://papayahu.github.io/post-images/1697443449735.png" alt="copy" loading="lazy"></li>
+<li>下載並安裝 <a href="https://git-scm.com/downloads">git</a> ,可參考 <a href="https://progressbar.tw/posts/1">git安裝教程</a></li>
+<li>將它藉由git clone的方式複製到電腦本地資料夾中。（要使用Shift+Insert貼上URL）(git的複製及貼上的快捷鍵為Ctrl/Shift+Insert)<br>
+<img src="https://papayahu.github.io/post-images/1697443467221.png" alt="git" loading="lazy"> 輸入<code>git clone URL</code><br>
+<img src="https://papayahu.github.io/post-images/1697443479460.png" alt="clone" loading="lazy"></li>
+<li>安裝pnpm。（可參考<a href="https://pnpm.io/installation">pnpm官網安裝</a>或以下方式，若已安裝完畢可直接進入第10步驟）</li>
+<li>進去官網安裝 <a href="https://nodejs.org/en">Node.js</a> ，可安裝18.18.2版本（推薦大多數用戶使用）<br>
+<img src="https://papayahu.github.io/post-images/1697443499492.png" alt="node" loading="lazy"></li>
+<li>點擊<strong>Window+R鍵</strong>，輸入<code>cmd</code>，按下<strong>確定</strong>，進去新視窗。</li>
+<li>依照下圖輸入命令，並安裝pnpm（每次輸入完畢要按<strong>Enter</strong>執行命令）。<br>
+輸入<code>node -v</code>確認Node.js是否安裝成功；輸入<code>npm -v</code>確認npm是否安裝成功；輸入<code>npm install -g pnpm</code>安裝pnpm；輸入<code>pnpm -v</code>確認pnpm是否安裝成功。<br>
+<img src="https://papayahu.github.io/post-images/1697443517340.png" alt="cmd" loading="lazy"></li>
+<li>cd到本地目錄 <code>cd C:\workSpace\GitLoadWareHouse\cali.so</code>（可參考第5步驟的附圖之路徑），安裝 node_modules 依賴庫 <code>pnpm i</code>。<br>
+<img src="https://papayahu.github.io/post-images/1697443541050.png" alt="pnpm" loading="lazy"></li>
+<li>Sanity內容管理，參考 <a href="https://cali.so/blog/guide-for-cloning-my-site#c39ca080a772">左側目錄</a><br>
+補充：複製完Project ID後，依照下圖路徑打開.env和.env.example兩個檔案。（可使用Notepad3或別的編輯器開啟，若需下載Notepad3可參考 <a href="https://notepad3.en.softonic.com/">Notepad3下載</a>）<br>
+<img src="https://papayahu.github.io/post-images/1697444081046.png" alt="env" loading="lazy"><br>
+<img src="https://papayahu.github.io/post-images/1697444129875.png" alt="example" loading="lazy"><br>
+<img src="https://papayahu.github.io/post-images/1697444239798.png" alt="open" loading="lazy"><br>
+<strong>.env.example</strong>為參考檔，在此檔填完數值需再複製到.env內</li>
+<li>Clerk用戶鑒權，參考 <a href="https://cali.so/blog/guide-for-cloning-my-site#a4eb7b73f9e6">左側目錄</a></li>
+<li>PlanetScale 數據庫，參考 <a href="https://cali.so/blog/guide-for-cloning-my-site#937e7eb55360">左側目錄</a> 。此配置須綁卡，也可換成別的不須綁卡的配置，可參考 <a href="https://neon.tech/">Neon</a> 或 <a href="https://turso.tech/">Turso</a></li>
+<li>若使用Neon，可找到<strong>Prisma</strong>，複製 <strong>DATABASE_URL</strong><br>
+<img src="https://papayahu.github.io/post-images/1697547477215.png" alt="prisma" loading="lazy"></li>
+<li>找到<strong>Node.js</strong>，複製<strong>DATABASE_HOST</strong>、<strong>DATABASE_PASSWORD</strong>、<strong>DATABASE_USERNAME</strong><br>
+<img src="https://papayahu.github.io/post-images/1697447091225.png" alt="host" loading="lazy"></li>
+</ol>
+]]></content>
+    </entry>
+</feed>
